@@ -4,7 +4,7 @@ export class User
   lastName:string;
   email:string;
   password:string;
-  mobileNo:number;
+ 
   day:number;
   month:number;
   year:number;
